@@ -61,7 +61,7 @@ Platforms    Sprinklr · VS Code · Warp Terminal
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj786&show_icons=true&theme=tokyo-night&hide_border=true)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj786&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj786&layout=compact&theme=tokyo-night&hide_border=true)
 
