@@ -9,7 +9,7 @@
 📍 Nagpur, India &nbsp;|&nbsp; 🚀 Open to collaboration & freelance
 
 [![GitHub followers](https://img.shields.io/github/followers/Yashraj786?label=Follow&style=social)](https://github.com/Yashraj786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ramteke-6161b7217/)
 
 </div>
 
@@ -80,5 +80,5 @@ Platforms    Sprinklr · VS Code · Warp Terminal
 
 > I'm open to **freelance projects**, **collaborations**, and **interesting problems** to solve.
 
-- 💼 [LinkedIn](https://linkedin.com/in/yashraj786)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-ramteke-6161b7217/)
 - 🐙 [GitHub](https://github.com/Yashraj786)
