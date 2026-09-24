@@ -6,7 +6,7 @@
 
 📍 Nagpur, India &nbsp;|&nbsp; 🚀 Open to remote roles & freelance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-r-6161b7217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ramteke-6161b7217/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yash.ramteke369@gmail.com)
 
 </div>
