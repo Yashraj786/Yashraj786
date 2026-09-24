@@ -1,15 +1,13 @@
-<!-- Profile README – Yash Ramteke (@Yashraj786) -->
-
 <div align="center">
 
 # Hi, I'm Yash Ramteke 👋
 
-**Full-Stack Developer · AI Integrations · Sprinklr Implementation Consultant**
+**Prompt Engineer · LLM Workflows · AI Integrations**
 
-📍 Nagpur, India &nbsp;|&nbsp; 🚀 Open to collaboration & freelance
+📍 Nagpur, India &nbsp;|&nbsp; 🚀 Open to remote roles & freelance
 
-[![GitHub followers](https://img.shields.io/github/followers/Yashraj786?label=Follow&style=social)](https://github.com/Yashraj786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ramteke-6161b7217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-r-6161b7217/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yash.ramteke369@gmail.com)
 
 </div>
 
@@ -17,32 +15,26 @@
 
 ## 🚀 About Me
 
-I'm a software developer and entrepreneur building production-grade web applications with **Ruby on Rails** and integrating **AI/LLM APIs** to create smarter user experiences. By day I work as a **Sprinklr Implementation Consultant**, configuring enterprise customer engagement platforms (IVR trees, guided workflows, speech profiles). By night I ship side projects.
+I design prompt systems and LLM-powered tools that produce reliable, structured output for real users.
 
-- 🔧 &nbsp;Currently building a **Mobile Repair Service web app** (Rails + AI-assisted diagnostics)
-- 💛 &nbsp;Working on **Sprinklr CX implementations** – IVR trees, routing logic, speech profiles
-- 🌱 &nbsp;Deep-diving into **LLM integration** (Perplexity API, Claude, Ollama) and Heroku deployments
-- ⚡ &nbsp;Background in esports operations & business consulting before pivoting full-time into dev
+- 🧠 Built a multi-step prompt workflow for ATS resume tailoring (JD analysis, factual-accuracy constraints, LaTeX output, match-score rubric), used for 17 clients
+- 🤖 Built multi-LLM apps integrating Claude, Perplexity and Ollama APIs in Ruby on Rails
+- 🛠️ Configure custom coding agents (GitHub Copilot) with tailored system instructions
+- 🏪 Founder of VendNest Enterprises, a smart vending startup in Nagpur
+- 🌱 Currently learning: LLM evaluation, RAG, RLHF-style preference data
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```text
+Prompting    System Prompts · Agent Instructions · Eval Rubrics · Structured Output (JSON, LaTeX)
+AI/LLM       Claude API · Perplexity API · Ollama · GitHub Copilot · MCP Tools
 Languages    Ruby · JavaScript · HTML/CSS · SQL
 Frameworks   Ruby on Rails · Tailwind CSS
-AI/LLM       Perplexity API · Claude API · Ollama
 Databases    PostgreSQL · SQLite
-DevOps       Heroku · Git · GitHub Actions
-Platforms    Sprinklr · VS Code · Warp Terminal
+DevOps       Git · GitHub Actions · Heroku
 ```
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 ---
 
@@ -50,35 +42,22 @@ Platforms    Sprinklr · VS Code · Warp Terminal
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 **Mobile Repair App** | End-to-end repair service platform with booking, diagnostics & billing | Rails, PostgreSQL, Tailwind |
-| 🤖 **Nexus_Ai** | AI chat interface integrating multiple LLM APIs | HTML, JS, AI APIs |
+| 🤖 **Nexus_Ai** | AI chat app integrating multiple LLM APIs (Claude, Perplexity, Ollama) | Rails, AI APIs |
+| 📄 **AI Resume Tailoring Workflow** | Prompt system: JD analysis → tailored ATS resume → match score & gap report | Prompting, LaTeX |
 | 📅 **LETSMEET** | Event scheduling and meeting coordination app | Rails |
-| 📋 **rails-task-manager** | Full-stack task management with CRUD & auth | Rails, HTML |
+| 📋 **rails-task-manager** | Task management with CRUD, auth & PostgreSQL | Rails, PostgreSQL |
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
+
+- 🚂 **Le Wagon**: Full-Stack Web Development (Ruby on Rails), Oct–Dec 2025
+- 🎓 **BCCA**, Dhanwate National College, Nagpur (2022–2025)
+
+---
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj786&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj786&layout=compact&theme=tokyo-night&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj786&show_icons=true&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
-
-## 🎓 Education & Training
-
-- 🚂 **Le Wagon Bootcamp** – Full-Stack Web Development (Ruby on Rails) · 11-week intensive
-- 🎓 **Dhanwate National College**, Nagpur – Undergraduate
-
----
-
-## 📫 Let's Connect
-
-> I'm open to **freelance projects**, **collaborations**, and **interesting problems** to solve.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-ramteke-6161b7217/)
-- 🐙 [GitHub](https://github.com/Yashraj786)
